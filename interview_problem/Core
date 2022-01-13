@@ -1,0 +1,26 @@
+1.why turnacate ddl is while delte dml?
+
+Truncate reinitializes the identity by making changes in data definition therefore it is DDL, 
+whereas Delete only delete the records from the table and doesn't make any changes in its Definition that's why it is DML.
+
+-------------------------------------------------------------------------------------------------
+
+2.MySql VS SQL
+
+SQL extends for Structured Query Language. SQL is a standard language that enables the user to design and manage databases.
+On the other hand, MySQL is a relational database management system that allows a user to store and retrieve data from the database.
+MySQL uses SQL to perform specific operations on the database. 
+Both MySQL and SQL offer two trendy and differentiable servers: MySQL server and SQL Server for database management.
+
+-------------------------------------------------------------------------------------------------
+
+3.MAC(Media Access Control Address) Address-:
+
+MAC Address is used to ensure the physical address of a computer.
+MAC Address operates in the data link layer.
+
+
+IP Address(Internet Protocol Address.)
+
+IP Address is the logical address of the computer.
+	IP Address operates in the network layer.
